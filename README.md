@@ -1,1 +1,0 @@
-# A01_cvclass_basic_exercise
